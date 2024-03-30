@@ -846,6 +846,17 @@ const db_forums = [
         note: "非大陆服务器。",
         reference: []
     }
+    {
+    title: "基岩我的世界中文论坛",
+    url: "http://bedrockmcbbs.web1337.net/",
+    state: "yp",
+    createdAt: "2024/03/08",
+    updatedAt: "2024/03/30",
+    hasICP: "no",
+    hasNetSec: "no",
+    note: "免费主机，有属于该论坛的MC服务器，且加入我的世界中文论坛联盟，使用萌备",
+    reference: []
+}
 ];
 
 
